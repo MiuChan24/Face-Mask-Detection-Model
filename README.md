@@ -1,0 +1,5 @@
+Face detection is a fundamental task in computer vision with a wide range of applications, including surveillance, biometric authentication, human-computer interaction, and emotion recognition. This project focuses on the implementation and testing of face detection techniques on both static images and real-time video streams using OpenCV and related libraries.
+
+The primary goal of the project is to detect and localize human faces in visual inputs. The system utilizes Haar Cascade Classifiers and other robust methods provided by OpenCV for real-time face detection. The first phase involves processing and identifying faces in static images, while the second phase extends this capability to dynamic inputs from a webcam.
+
+The implementation demonstrates how computer vision can be applied effectively to solve real-world problems involving human face detection. The project provides a foundational framework for more advanced tasks such as face recognition, emotion detection, or tracking in surveillance systems.
